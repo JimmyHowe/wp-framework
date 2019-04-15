@@ -1,0 +1,25 @@
+{
+    "name": "jimmyhowedotcom/wp-framework",
+    "type": "library",
+    "description": "Framework for WordPress Development",
+    "keywords": [
+        "wordpress",
+        "plugin",
+        "theme"
+    ],
+    "homepage": "https://jimmyhowe.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jimmy Howe",
+            "email": "director@jimmyhowe.com",
+            "homepage": "https://jimmyhowe.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "JHDC": "src/"
+        }
+    }
+}
